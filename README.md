@@ -1,4 +1,4 @@
-Miami landing page
+Creative Bakery landing page
 Stack technologies: HTML5, SCSS, JS
 Features: fully responsive web layout, adaptive for different devices and screens
 Methods used: flexbox and css-grid for responsive development, BEM-methodology for better scaling
